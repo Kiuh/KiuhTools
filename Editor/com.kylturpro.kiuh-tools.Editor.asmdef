@@ -1,0 +1,16 @@
+{
+    "name": "com.kylturpro.kiuh-tools.Editor",
+    "rootNamespace": "KiuhTools",
+    "references": [
+        "GUID:fb212d93a22f8c6429b8e5a940358468"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
