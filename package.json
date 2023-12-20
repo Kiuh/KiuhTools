@@ -1,8 +1,8 @@
 {
   "name": "com.kylturpro.kiuh-tools",
   "version": "1.0.0",
-  "displayName": "Useful unity tools by kiuh",
-  "description": "Package that adds some useful classes, enums, functions and e.t.c",
+  "displayName": "Unity tools by kiuh",
+  "description": "Package that adds some useful classes, enums, functions, attributes and e.t.c",
   "documentationUrl": "",
   "changelogUrl": "",
   "licensesUrl": "",
