@@ -1,5 +1,5 @@
 # KiuhTools
-Package that adds some useful classes, enums, functions and e.t.c
+Package that adds some useful classes, enums, functions, attributes and e.t.c
 
 ## Setup
 
